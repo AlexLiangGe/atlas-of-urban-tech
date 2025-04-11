@@ -2,7 +2,7 @@
 title: Case Study Template
 description: Lorem ipsum dolor sit amet
 status: Draft
-author: Your Name
+author: Alex
 type: 
 city:  
 country_code: USA
