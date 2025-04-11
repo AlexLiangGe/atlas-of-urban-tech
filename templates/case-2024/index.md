@@ -2,7 +2,7 @@
 title: Case Study Template
 description: Lorem ipsum dolor sit amet
 status: Draft
-author: Alex
+author: Liang Ge
 type: 
 city:  
 country_code: USA
